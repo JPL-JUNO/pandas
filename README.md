@@ -1,10 +1,10 @@
-# pandas
+<a href="https://pandas.pydata.org/"><h1>pandas</h1></a>
 
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
-<h1>add<img src="https://pandas.pydata.org/"></h1>
-
 ## 目录
+
+pandas完整的教程包含如下三部分，但是这里我只记录我遇到到，想要记录的点，并不会包含全部的内容：
 
 1. Getting started
 2. Documentation
