@@ -4,8 +4,17 @@ pandas is a fast, powerful, flexible and easy to use open source data analysis a
 
 ## 目录
 
-pandas完整的教程包含如下三部分，但是这里我只记录我遇到到，想要记录的点，并不会包含全部的内容，更详细的内容可以参考[pandas官网](https://pandas.pydata.org/)。 
+pandas完整的教程包含如下三部分，但是这里我只记录我遇到的，想要记录的点，并不会包含全部的内容，更详细的内容可以参考[pandas官网](https://pandas.pydata.org/)。
 
 1. Getting started
+   - Install pandas
+   - Getting started
 2. Documentation
+   - User guide
+   - API reference
+   - Contributing to pandas
+   - Release notes
 3. Community
+   - About pandas
+   - Ask a question
+   - Ecosystem
