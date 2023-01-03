@@ -1,4 +1,4 @@
-<a href="https://pandas.pydata.org/"><h1>pandas</h1></a>
+# pandas
 
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
